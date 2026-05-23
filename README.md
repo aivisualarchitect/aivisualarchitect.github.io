@@ -1,4 +1,3 @@
-# aivisualarchitect.github.io
 # Nikolay Gul
 
 ## Applied AI Workflow Portfolio
